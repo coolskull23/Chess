@@ -47,3 +47,13 @@ a:hover {
     border: 0px none;
     visibility: hidden;
 }
+div{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div :first-child{
+    
+}
